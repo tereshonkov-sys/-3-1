@@ -24,12 +24,7 @@ def vib_7():
         print(first_number ** second_number)
 def vib_8():
         print(second_number ** first_number)
-
-
-
-
-
-
+    
 while a == 1:
     print("Выберите что бы вы хотели сделать:\n"
       "1. Кинуть кубик👾\n"
@@ -74,4 +69,5 @@ while a == 1:
             elif big_vibor == 7:
                 vib_7()
             elif big_vibor == 8:
+
                 vib_8()
